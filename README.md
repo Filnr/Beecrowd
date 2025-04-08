@@ -10,7 +10,7 @@ Repositório com as resoluções das questões do BeeCrowd, desenvolvido para pr
 - [Licença](#licença)
 
 ## Descrição
-Este projeto agrupa soluções para os problemas do [BeeCrowd](https://www.beecrowd.com.br), permitindo que estudantes e entusiastas possam aprender e comparar diferentes abordagens.
+Este projeto agrupa soluções para os problemas do [Beecrowd](https://www.beecrowd.com.br), permitindo que estudantes e entusiastas possam aprender e comparar diferentes abordagens.
 
 ## Estrutura do Repositório
 O repositório está organizado da seguinte forma:
@@ -21,4 +21,4 @@ O repositório está organizado da seguinte forma:
 Cada problema possui um README próprio com instruções de execução. Por exemplo, para executar a solução em Java:
 ```bash
 Javac Problemas/1110-JogandoCartas/solução.java
-
+Java Problemas/1110-JogandoCartas/solução
