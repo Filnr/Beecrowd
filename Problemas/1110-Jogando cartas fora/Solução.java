@@ -1,5 +1,5 @@
 import java.util.*;
-public class PCartas {
+public class Solução{
 
     public static void mover(int[] cartas,int qtCartas){
         int resp = cartas[qtCartas-1];

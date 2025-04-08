@@ -1,5 +1,5 @@
 import java.util.*;
-public class Duendes {
+public class Solução {
 
     public static void organiza(String[] duendes, int[] idades, int n){
         for(int i = 0; i < n - 1; i++){

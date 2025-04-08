@@ -1,5 +1,5 @@
 import java.util.*;
-public class Etiquetas {
+public class Solução {
 
     public static void main(String[] args){
         Scanner leitor = new Scanner(System.in);

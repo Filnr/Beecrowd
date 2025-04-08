@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class OrdemTam {
+public class Solução {
 
     public static void ordena(String[] palavras, int[] tam,int indice){
         for(int i = 0; i < indice - 1; i++){
